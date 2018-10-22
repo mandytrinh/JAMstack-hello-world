@@ -11,9 +11,9 @@ const Menu = () => (
       display: 'flex',
       justifyContent: 'space-evenly'
     }}>
-      <li><a href = '/'>Home</a></li>
-      <li><a href = './fun-stuff'>Fun Stuff</a></li>
-      <li><a href = './page-2'>Page 2</a></li>
+      <li><a href = '/'>🏠 Home</a></li>
+      <li><a href = './fun-stuff'>🎉 Fun Stuff </a></li>
+      <li><a href = './page-2'>🍰 Page 2</a></li>
     </ul>
   </div>
 )
